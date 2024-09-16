@@ -8,3 +8,4 @@ HTML
 <br>
 CSS
 <br>
+<img src="https://github.com/denilsonfernandes/wide-coverage-location/blob/main/img/Wide%20coverage%20location%20desktop.png?raw=true" />
